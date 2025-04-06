@@ -1,1 +1,15 @@
-
+{
+  "vcenter": "192.168.1.100",
+  "username": "administrator@vsphere.local",
+  "password": "Gowsia@123",
+  "datacenter": "Datacenter01",
+  "cluster": "Cluster01",
+  "template": "UbuntuTemplate",
+  "vm_prefix": "LabVM",
+  "vm_count": 3,
+  "vm_cpu": 2,
+  "vm_memory": 4096,
+  "datastore": "Datastore01",
+  "network": "VM Network",
+  "snapshot_name": "InitialSetup"
+}
